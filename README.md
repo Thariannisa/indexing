@@ -14,9 +14,10 @@
 
 2. image indexing
 
-
+- install PIP : sudo apt install python3-pip
+- untuk menginstall modul pytho : pip install -r requirements.txt
 - Masuk ke folder image indexing : cd ./image-indexing
-- pip install -r requirements.txt
+
 - masuk ke folder app : cd ./app
 - jalankan program nya dengan menuliskan di terminal : python index.py --dataset static/images --index index.csv
 ![image indexing1.png](./ss/image_indexing1.png)
