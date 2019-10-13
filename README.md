@@ -19,7 +19,7 @@
 - pip install -r requirements.txt
 - masuk ke folder app : cd ./app
 - jalankan program nya dengan menuliskan di terminal : python index.py --dataset static/images --index index.csv
-![image indexing1.png](./ss/image indexing1.png)
+![image indexing1.png](./ss/image_indexing1.png)
 -output 
 ![image_indexing2.png](./ss/image_indexing2.png)
 - sumber :
